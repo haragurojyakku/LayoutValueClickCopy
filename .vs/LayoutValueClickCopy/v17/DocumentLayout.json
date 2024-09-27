@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\MyApp\\LayoutValueClickCopy\\",
+  "WorkspaceRootPath": "D:\\Project\\git_LocalRepository\\LayoutValueClickCopy\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{55095E0C-CB2A-4C10-AB5F-51DBAD723330}|LayoutValueClickCopy.csproj|d:\\myapp\\layoutvalueclickcopy\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{55095E0C-CB2A-4C10-AB5F-51DBAD723330}|LayoutValueClickCopy.csproj|d:\\project\\git_localrepository\\layoutvalueclickcopy\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{55095E0C-CB2A-4C10-AB5F-51DBAD723330}|LayoutValueClickCopy.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{55095E0C-CB2A-4C10-AB5F-51DBAD723330}|LayoutValueClickCopy.csproj|d:\\myapp\\layoutvalueclickcopy\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{55095E0C-CB2A-4C10-AB5F-51DBAD723330}|LayoutValueClickCopy.csproj|d:\\project\\git_localrepository\\layoutvalueclickcopy\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{55095E0C-CB2A-4C10-AB5F-51DBAD723330}|LayoutValueClickCopy.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
@@ -18,42 +18,35 @@
       "DocumentGroups": [
         {
           "DockedWidth": 1224,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "D:\\MyApp\\LayoutValueClickCopy\\MainWindow.xaml",
+              "DocumentMoniker": "D:\\Project\\git_LocalRepository\\LayoutValueClickCopy\\MainWindow.xaml",
               "RelativeDocumentMoniker": "MainWindow.xaml",
-              "ToolTip": "D:\\MyApp\\LayoutValueClickCopy\\MainWindow.xaml",
+              "ToolTip": "D:\\Project\\git_LocalRepository\\LayoutValueClickCopy\\MainWindow.xaml",
               "RelativeToolTip": "MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-09-21T00:14:43.785Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-21T00:14:43.785Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "D:\\MyApp\\LayoutValueClickCopy\\MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Project\\git_LocalRepository\\LayoutValueClickCopy\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "MainWindow.xaml.cs",
-              "ToolTip": "D:\\MyApp\\LayoutValueClickCopy\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\Project\\git_LocalRepository\\LayoutValueClickCopy\\MainWindow.xaml.cs",
               "RelativeToolTip": "MainWindow.xaml.cs",
-              "ViewState": "AQIAAE4AAAAAAAAAAAAowFIAAABuAAAA",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAowFIAAABuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-21T00:14:40.41Z",
               "EditorCaption": ""
-            }
-          ]
-        },
-        {
-          "DockedWidth": 884,
-          "SelectedChildIndex": -1,
-          "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             }
           ]
         },

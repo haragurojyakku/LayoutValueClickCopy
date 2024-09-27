@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\MyApp\\LayoutValueClickCopy\\LayoutValueClickCopy.csproj": {}
+    "D:\\Project\\git_LocalRepository\\LayoutValueClickCopy\\LayoutValueClickCopy.csproj": {}
   },
   "projects": {
-    "D:\\MyApp\\LayoutValueClickCopy\\LayoutValueClickCopy.csproj": {
+    "D:\\Project\\git_LocalRepository\\LayoutValueClickCopy\\LayoutValueClickCopy.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\MyApp\\LayoutValueClickCopy\\LayoutValueClickCopy.csproj",
+        "projectUniqueName": "D:\\Project\\git_LocalRepository\\LayoutValueClickCopy\\LayoutValueClickCopy.csproj",
         "projectName": "LayoutValueClickCopy",
-        "projectPath": "D:\\MyApp\\LayoutValueClickCopy\\LayoutValueClickCopy.csproj",
+        "projectPath": "D:\\Project\\git_LocalRepository\\LayoutValueClickCopy\\LayoutValueClickCopy.csproj",
         "packagesPath": "C:\\Users\\hara_\\.nuget\\packages\\",
-        "outputPath": "D:\\MyApp\\LayoutValueClickCopy\\obj\\",
+        "outputPath": "D:\\Project\\git_LocalRepository\\LayoutValueClickCopy\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hara_\\AppData\\Roaming\\NuGet\\NuGet.Config",
