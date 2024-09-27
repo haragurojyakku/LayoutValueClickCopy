@@ -1,0 +1,2 @@
+# LayoutValueClickCopy
+UILayoutに使う数値をワンクリックで取得できるソフトウェア
