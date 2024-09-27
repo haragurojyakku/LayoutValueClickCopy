@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LayoutValueClickCopy")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8076ea7502bd61024ba25c59e37a26b24fe0951e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+76e341a54f35150dbbca1a22bcd9d1f6a837e4dc")]
 [assembly: System.Reflection.AssemblyProductAttribute("LayoutValueClickCopy")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LayoutValueClickCopy")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
