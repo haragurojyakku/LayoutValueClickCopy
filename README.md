@@ -17,7 +17,3 @@
 
 クリップボードの仕様で素早く連続でコピーするとうまくいかない場合があります。
 その場合はゆっくり確実にボタンをクリックしてください。
-
-# Download Link
-
-https://github.com/haragurojyakku/LayoutValueClickCopy_exeFile/archive/refs/heads/main.zip
