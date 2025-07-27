@@ -5,6 +5,8 @@
 
 **LayoutValueClickCopy** は、解像度やサイズを黄金比や2の倍数に基づいて計算し、それらをクリップボードにコピーできるツールです。
 
+![image](https://github.com/user-attachments/assets/0e35fee7-84d7-45d7-bd01-308fd595c409)
+
 ## 使用方法
 
 1. **解像度のコピー**
@@ -17,7 +19,3 @@
 
 クリップボードの仕様で素早く連続でコピーするとうまくいかない場合があります。
 その場合はゆっくり確実にボタンをクリックしてください。
-
-# Download Link
-
-https://github.com/haragurojyakku/LayoutValueClickCopy_exeFile/archive/refs/heads/main.zip
