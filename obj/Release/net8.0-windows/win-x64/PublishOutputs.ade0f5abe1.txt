@@ -1,0 +1,2 @@
+D:\GitDl\LayoutValueClickCopy\publish\win-x64-single\LayoutValueClickCopy.pdb
+D:\GitDl\LayoutValueClickCopy\publish\win-x64-single\LayoutValueClickCopy.exe

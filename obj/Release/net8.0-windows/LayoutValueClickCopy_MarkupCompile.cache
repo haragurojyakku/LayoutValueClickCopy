@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-D:\Project\git_LocalRepository\LayoutValueClickCopy\obj\Release\net8.0-windows\
+d:\GitDl\LayoutValueClickCopy\obj\Release\net8.0-windows\
 LayoutValueClickCopy
 none
 false
-TRACE;RELEASE;NET;NET8_0;NETCOREAPP
-D:\Project\git_LocalRepository\LayoutValueClickCopy\App.xaml
-11407045341
+TRACE;RELEASE;NET;NET8_0;NETCOREAPP;WINDOWS;WINDOWS7_0;NET5_0_OR_GREATER;NET6_0_OR_GREATER;NET7_0_OR_GREATER;NET8_0_OR_GREATER;NETCOREAPP3_0_OR_GREATER;NETCOREAPP3_1_OR_GREATER;WINDOWS7_0_OR_GREATER
+d:\GitDl\LayoutValueClickCopy\App.xaml
+3246632276
 
-4-1840210254
-198155382431
-MainWindow.xaml;
+101421603731
+198-1127337667
+MainWindow.xaml;Resources\Strings.en.xaml;Resources\Strings.ja.xaml;
 
 False
 

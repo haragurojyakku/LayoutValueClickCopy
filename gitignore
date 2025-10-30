@@ -8,10 +8,27 @@
 # ビルド成果物
 bin/
 obj/
+publish/
+installer/output/
+*.msi
+*.exe
 
 # 一時ファイル
 *.log
 *.tmp
+
+# VS Code 個人設定（ワークスペース共有外）
+.vscode/settings.json
+.vscode/tasks.json
+.vscode/extensions.json
+.vscode/launch.json
+
+# Publish/ClickOnce/プロファイルの個人設定
+*.pubxml.user
+
+# OS/ツール生成物
+Thumbs.db
+*.DS_Store
 
 # その他
 # リリース用ビルド成果物や環境依存ファイルを追加で指定できます

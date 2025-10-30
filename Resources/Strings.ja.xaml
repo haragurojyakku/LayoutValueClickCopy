@@ -1,0 +1,27 @@
+<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:sys="clr-namespace:System;assembly=mscorlib">
+  <!-- ヘッダー/ラベル -->
+  <sys:String x:Key="Label_Spacing">スペーシング (px):</sys:String>
+  <sys:String x:Key="Label_DisplaySet">表示セット:</sys:String>
+  <sys:String x:Key="Label_Language">言語:</sys:String>
+  <sys:String x:Key="Button_Recalculate">再計算</sys:String>
+
+  <!-- タブ -->
+  <sys:String x:Key="Tab_GoldenRatio">黄金比</sys:String>
+  <sys:String x:Key="Tab_Approx">近似</sys:String>
+  <sys:String x:Key="Tab_PowersOfTwo">2の累乗</sys:String>
+
+  <!-- 列タイトル -->
+  <sys:String x:Key="Col_Width">横幅</sys:String>
+  <sys:String x:Key="Col_WidthDec">横幅 減少値</sys:String>
+  <sys:String x:Key="Col_Height">高さ</sys:String>
+  <sys:String x:Key="Col_HeightDec">高さ 減少値</sys:String>
+  <sys:String x:Key="Col_WidthApprox">横幅 近似</sys:String>
+  <sys:String x:Key="Col_HeightApprox">高さ 近似</sys:String>
+  <sys:String x:Key="Col_PowersOfTwo">2の累乗</sys:String>
+
+  <!-- ステータス -->
+  <sys:String x:Key="Msg_InvalidSpacing">無効なスペーシング値です</sys:String>
+  <sys:String x:Key="Msg_Copied">クリップボードにコピーしました: {0}</sys:String>
+</ResourceDictionary>

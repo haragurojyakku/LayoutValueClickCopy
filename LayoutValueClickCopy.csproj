@@ -8,4 +8,13 @@
     <UseWPF>true</UseWPF>
   </PropertyGroup>
 
+  <!-- アプリのアイコンは Assets/app.ico が存在する場合のみ組み込み -->
+  <PropertyGroup Condition="Exists('Assets\\app.ico')">
+    <ApplicationIcon>Assets\app.ico</ApplicationIcon>
+  </PropertyGroup>
+
+  <ItemGroup Condition="Exists('Assets\\app.ico')">
+    <None Include="Assets\app.ico" />
+  </ItemGroup>
+
 </Project>
