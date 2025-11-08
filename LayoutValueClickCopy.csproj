@@ -17,4 +17,9 @@
     <None Include="Assets\app.ico" />
   </ItemGroup>
 
+  <!-- 実行時ウィンドウ用の PNG アイコン（pack URI で参照するためリソースに埋め込み） -->
+  <ItemGroup>
+    <Resource Include="Assets\app.png" Condition="Exists('Assets\\app.png')" />
+  </ItemGroup>
+
 </Project>

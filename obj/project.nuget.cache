@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "jGdgLUxQasg=",
+  "dgSpecHash": "zIHXgrK12MU=",
   "success": true,
-  "projectFilePath": "d:\\GitDl\\LayoutValueClickCopy\\LayoutValueClickCopy.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\GitDl\\LayoutValueClickCopy\\LayoutValueClickCopy.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hara_\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.21\\microsoft.net.illink.tasks.8.0.21.nupkg.sha512",
+    "C:\\Users\\hara_\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\8.0.21\\microsoft.netcore.app.runtime.win-x64.8.0.21.nupkg.sha512",
+    "C:\\Users\\hara_\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\8.0.21\\microsoft.windowsdesktop.app.runtime.win-x64.8.0.21.nupkg.sha512",
+    "C:\\Users\\hara_\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\8.0.21\\microsoft.aspnetcore.app.runtime.win-x64.8.0.21.nupkg.sha512"
+  ],
   "logs": []
 }

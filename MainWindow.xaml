@@ -20,17 +20,21 @@
         </Grid.RowDefinitions>
 
         <!-- スペーシング入力欄と再計算ボタン -->
-        <StackPanel Grid.Row="0" Grid.ColumnSpan="5" Orientation="Horizontal" HorizontalAlignment="Center" Margin="10" VerticalAlignment="Center">
-            <TextBlock Text="{DynamicResource Label_Spacing}" VerticalAlignment="Center" Margin="0,0,5,0" />
-            <TextBox Width="100" Margin="0,0,10,0" Text="{Binding SpacingText, UpdateSourceTrigger=PropertyChanged}" />
-            <Button Content="{DynamicResource Button_Recalculate}" Width="100" Command="{Binding RecalculateCommand}" />
-            <TextBlock Text="  {DynamicResource Label_DisplaySet}" VerticalAlignment="Center" Margin="10,0,5,0" />
-            <ComboBox Width="140" ItemsSource="{Binding DisplaySets}" SelectedIndex="{Binding SelectedTabIndex, Mode=TwoWay}"/>
-            <TextBlock Text="  {DynamicResource Label_Language}" VerticalAlignment="Center" Margin="10,0,5,0" />
-            <ComboBox Width="120" ItemsSource="{Binding Languages}"
-                      DisplayMemberPath="Display"
-                      SelectedValuePath="Code"
-                      SelectedValue="{Binding SelectedLanguage, Mode=TwoWay}" />
+        <!-- 上部コントロールを縦レイアウトに変更 -->
+        <StackPanel Grid.Row="0" Grid.ColumnSpan="5" Orientation="Vertical" HorizontalAlignment="Center" Margin="10" VerticalAlignment="Center">
+            <!-- 表示セットドロップダウン -->
+            <StackPanel Orientation="Vertical" HorizontalAlignment="Center" Margin="0,0,8,0">
+                <TextBlock Text="{DynamicResource Label_DisplaySet}" Margin="0,0,4,2" />
+                <ComboBox Width="180" ItemsSource="{Binding DisplaySets}" SelectedIndex="{Binding SelectedTabIndex, Mode=TwoWay}"/>
+            </StackPanel>
+            <!-- 言語ドロップダウン -->
+            <StackPanel Orientation="Vertical" HorizontalAlignment="Center">
+                <TextBlock Text="{DynamicResource Label_Language}" Margin="0,0,4,2" />
+                <ComboBox Width="180" ItemsSource="{Binding Languages}"
+                          DisplayMemberPath="Display"
+                          SelectedValuePath="Code"
+                          SelectedValue="{Binding SelectedLanguage, Mode=TwoWay}" />
+            </StackPanel>
         </StackPanel>
 
         

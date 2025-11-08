@@ -29,6 +29,19 @@ namespace LayoutValueClickCopy
                 if (path != null)
                 {
                     this.Icon = BitmapFrame.Create(new Uri(path, UriKind.Absolute));
+                    return;
+                }
+
+                // ファイルが無い場合は、WPF リソース（pack URI）からの読み込みを試す
+                try
+                {
+                    var packPng = new Uri("pack://application:,,,/Assets/app.png", UriKind.Absolute);
+                    this.Icon = BitmapFrame.Create(packPng);
+                    return;
+                }
+                catch
+                {
+                    // リソース未埋め込み等で失敗した場合は握りつぶし
                 }
             }
             catch
